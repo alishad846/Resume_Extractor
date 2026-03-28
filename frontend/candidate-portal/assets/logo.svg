@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Resume AI Platform</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="cubeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="60" rx="20" fill="url(#bgGrad)"/>
+  <g transform="translate(28, 15)">
+    <rect x="0" y="0" width="34" height="34" rx="8" fill="#ffffff" opacity="0.18"/>
+    <rect x="6" y="6" width="22" height="22" rx="5" fill="url(#cubeGrad)" stroke="#e0f2fe" stroke-width="2"/>
+    <path d="M16 10h12v12H16z" fill="#0f172a" opacity="0.75"/>
+    <path d="M16 24l8-8 8 8" fill="none" stroke="#0f172a" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="28" font-family="Inter, Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#ffffff">
+    Resume
+  </text>
+  <text x="80" y="45" font-family="Inter, Segoe UI, sans-serif" font-size="13" fill="#dbf4ff">
+    AI Platform
+  </text>
+  <g fill="#ffffff" opacity="0.7">
+    <circle cx="205" cy="12" r="4"/>
+    <circle cx="205" cy="32" r="4"/>
+  </g>
+</svg>

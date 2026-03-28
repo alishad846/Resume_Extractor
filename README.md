@@ -102,9 +102,7 @@ resume-ai-platform/
 4. Push to your branch and open a PR describing the change, linked tests, and deployment implications.
 
 ## Support
-- Email: support@resumeai.com
-- Issues: GitHub Issues (reference `README_PRODUCTION.md`)
-- Docs: check `docs/` and `/api/docs` once the backend is running locally.
+- Email:alishad846@gmail.com
 
 ## License
 MIT. See `LICENSE` for details.
